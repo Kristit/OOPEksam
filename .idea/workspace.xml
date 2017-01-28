@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="504100d4-78b1-40b6-bc29-717f22756912" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pastakas.java" afterPath="$PROJECT_DIR$/src/Pastakas.java" />
     </list>
     <ignored path="OOPEksamK.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -645,7 +644,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485586146580</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Viimased muudatuses">
+      <created>1485603234063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1485603234063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
