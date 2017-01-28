@@ -1,17 +1,19 @@
-package com.example.java;
-
 /**
  * Created by kristitammet on 24/01/2017.
  * * 2. Zelda kaotab nii palju elusid kui kollil elusid on.
  */
+
+/*
+
 public class Zelda {
 
-    public int kolliElusid;
+
     int elusid = 35;
     int elud;
 
 
     public Zelda(int elusid) {
+
         elud = this.elusid;
     }
 
@@ -41,3 +43,5 @@ public class Zelda {
     }
 
 }
+
+*/

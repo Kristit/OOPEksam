@@ -7,7 +7,9 @@
  * 1. Pidu klassi muuta ei tohi.
  * 2. Maja maksimum on 10 inimest.
  * 3. Kui Korter on täis siis on täis. Rohkem juurde ei saa
+ * */
 
+/*
 public class Pidu {
     public static void main(String[] args) {
 
@@ -38,4 +40,5 @@ public class Pidu {
 
         korter.prindiKylalisteArv(); // peaks olema 9, järjekorda ei ole.
     }
-} */
+}
+*/

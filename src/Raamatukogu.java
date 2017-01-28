@@ -1,4 +1,4 @@
-package com.example.java;
+
 
 import java.util.Arrays;
 
@@ -7,6 +7,7 @@ import java.util.Arrays;
  *
  * Raamatukogu klassi ei tohi muuta.
  * */
+
 
 public class Raamatukogu {
     public static void main(String[] args) {

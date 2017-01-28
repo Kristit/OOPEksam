@@ -1,4 +1,4 @@
-package com.example.java;
+
 /**
  * Loo klass Zelda, mis käitub nii nagu käesolev programm ootab.
  *
@@ -7,10 +7,8 @@ package com.example.java;
  * 2. Zelda kaotab nii palju elusid kui kollil elusid on.
 
 */
-public class Legend {
 
-
-
+/*
     public class Legend {
 
         public static void main(String[] args) {
@@ -31,4 +29,5 @@ public class Legend {
 
         }
     }
-}
+
+*/

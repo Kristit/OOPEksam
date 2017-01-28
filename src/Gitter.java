@@ -1,11 +1,11 @@
-package com.example.java;
+
 
 /**
  * Loo Chat klass, et käesolev programm saaks normaalselt toimida.
  *
  * On üks reegel: Gitter klassi muuta ei tohi.
  */
-public class Gitter {
+/*public class Gitter {
 
     public static void main(String[] args) {
 
@@ -30,3 +30,4 @@ public class Gitter {
         chat.prindiToaNimi();
     }
 }
+*/

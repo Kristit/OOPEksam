@@ -1,4 +1,4 @@
-import com.example.java.Kassa;
+
 
 /**
  * Siin failis kasutatakse objekti Kassa, aga Kassa klassi ei eksisteeri. Sinu ülesanne
@@ -9,6 +9,7 @@ import com.example.java.Kassa;
  * Jep, sama ülesanne oli ka proovieksamis.
  * */
 
+/*
 public class Pood {
 
     public static void main(String[] args) {
@@ -29,3 +30,4 @@ public class Pood {
         kassa.prindiKassapidajaNimi();
     }
 }
+*/

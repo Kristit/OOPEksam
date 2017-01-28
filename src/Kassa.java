@@ -1,10 +1,13 @@
-package com.example.java;
+
 
 import java.util.ArrayList;
 
 /**
  * Created by kristitammet on 24/01/2017.
  */
+
+
+/*
 public class Kassa {
 
     String kassapidaja;
@@ -18,6 +21,7 @@ public class Kassa {
     }
 
     public void lisaToode(String text){
+
         tsekk.add(tsekk.size(), text);
     }
 
@@ -40,3 +44,4 @@ public class Kassa {
     }
 }
 
+*/

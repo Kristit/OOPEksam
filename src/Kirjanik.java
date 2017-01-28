@@ -2,6 +2,7 @@
  * Created by kristitammet on 22/01/2017.
  */
 
+/*
 import com.example.java.Pastakas;
 /*
  * Loo see Pastaka objekt, mida kirjanik soovib siin kasutada.
@@ -10,8 +11,10 @@ import com.example.java.Pastakas;
  * 1. Käesolevat faili ei tohi muuta
  * 2. Kui pastakas kirjutab siis tuleb tekst konsooli - kuni tinti jätkub.
  * 3. Iga täht kulutab ühe ühiku.
-            */
+ *
+ */
 
+/*
 public class Kirjanik {
     public static void main(String[] args) {
         int tindiKogus = 60;
@@ -27,3 +30,4 @@ public class Kirjanik {
     }
 }
 
+*/
